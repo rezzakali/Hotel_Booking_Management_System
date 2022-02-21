@@ -8,7 +8,7 @@
 
 5. Import hotel_db.sql file(given inside the zip package in SQL file folder)
 
-6.Run the script http://localhost/Hotel_Booking_Management_System
+6.Run the script http://localhost/Hotel_Booking_Management_System-master
 
 
 .....................................Thanks...................................
